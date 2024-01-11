@@ -1,4 +1,4 @@
-# picture-in-picture
+
 # Picture-in-Picture
 
 **A Simple Picture-in-Picture Web App**
@@ -26,7 +26,7 @@ This project is a simple Picture-in-Picture web application that allows users to
 
 ## Demonstration
 
-To see the app in action, click [here](#) [Add the live demo link once the app is hosted]
+To see the app in action, click [here](#)(https://lambrugeorge.github.io/picture-in-picture/)
 
 ## Contributing
 
